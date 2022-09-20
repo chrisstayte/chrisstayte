@@ -10,6 +10,7 @@ Welcome to my Github Profile.
 
 #### Apps I've Released
 | App Name | Release Date | Link |
+| ------------|-------------|---------------------------------------------------|
 | PEI Poutine | August 2022 | [Project Page](https://chrisstayte.app/peipoutine)
 
 <!--
