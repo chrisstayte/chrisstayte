@@ -5,8 +5,8 @@ Welcome to my Github Profile.
 - 📫 How to reach me: [Twitter](https://twitter.com/chrisstayte)
 
 #### Check out my other sites
-[Apps](https://chrisstayte.app)
-[Youtube](https://youtube.com/chrisstayte)
+- [Apps](https://chrisstayte.app)
+- [Youtube](https://youtube.com/chrisstayte)
 
 #### Apps I've Released
 | App Name | Release Date | Link |
