@@ -11,6 +11,8 @@ Welcome to my Github Profile.
 #### Apps I've Released
 | App Name      | Release Date  | Link |
 | --------------|---------------|-------------------------------------------------------------------------------------------------|
+| Compass 3     | October 2022  | <a href="https://chrisstayte.app/compass3/" target="_blank" rel="noopener">Project Page</a>     |
+| Clock 2       | September 2022| <a href="https://chrisstayte.app/clock2/" target="_blank" rel="noopener">Project Page</a>       |
 | PEI Poutine   | August 2022   | <a href="https://chrisstayte.app/peipoutine" target="_blank" rel="noopener">Project Page</a>    |
 | OneShot       | July 2022     | <a href="https://chrisstayte.app/oneshot" target="_blank" rel="noopener">Project Page</a>       |
 | Fifty         | June 2022     | <a href="https://chrisstayte.app/fifty" target="_blank" rel="noopener">Project Page</a>         |
