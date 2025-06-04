@@ -12,7 +12,7 @@ Welcome to my Github Profile.
 | App Name      | Release Date  | Link |
 | --------------|---------------|-------------------------------------------------------------------------------------------------|
 | RateMyPlate   | Nov 2024      | <a href="https://ratemyplate.wtf" target="_blank" rel="noopener">Project Page</a>     |
-| Dominoes      | May 2022      | <a href="https://chrisstayte.app/domninoes" target="_blank" rel="noopener">Project Page</a>     |
+| Dominoes      | May 2022      | <a href="https://chrisstayte.app/dominoes" target="_blank" rel="noopener">Project Page</a>     |
 | Cashew        | April 2022    | <a href="https://chrisstayte.app/cashew" target="_blank" rel="noopener">Project Page</a>        |
 | Concentration | February 2022 | <a href="https://chrisstayte.app/concentration" target="_blank" rel="noopener">Project Page</a> |
 | Countdowns    | January 2022  | <a href="https://chrisstayte.app/countdowns" target="_blank" rel="noopener">Project Page</a>    |
